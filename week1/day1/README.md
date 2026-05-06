@@ -29,7 +29,7 @@
 
 - `datacreation.sql` – Table creation and data insertion
 - `queries.sql` – SQL queries with questions and answers
-- `output1.png` to `output10.png` – Query outputs
+- `output1.png` to `output15.png` – Query outputs
 
 ---
 
